@@ -22,6 +22,7 @@ entrenamiento y test. Este tp se dividió en 4 checkpoints:
   hiperparámetros, análisis de performance y cross validation
 
 - **TP2**: En este TP, se trabajó sobre un dataset para analizar las opiniones de peliculas, y poder
-evaluar si unas criticas fueron buenas o no, usando dataset de entrenamiento y test. Se trabajó con
-Procesamiento de Lenguaje natural con nltk, modelos como Bayes Naive, XGBoost, redes neuronales, 
-haciendo cross validation, optimización de hiperparámetros, etc. 
+evaluar si unas criticas fueron positivas o no, usando dataset de entrenamiento y test. Primero se 
+realizó una exploración, limpieza y análisis sobre los datos, luego se trabajó con Procesamiento de 
+Lenguaje natural con nltk, modelos como Bayes Naive, XGBoost, redes neuronales de aprendizaje 
+profundo, haciendo cross validation, optimización de hiperparámetros, etc. 
